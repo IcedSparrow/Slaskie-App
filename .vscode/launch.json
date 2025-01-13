@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\screens\\map_screen.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\screens\\map_screen.dart"
+        },
+        {
+            "name": "Flutter (lib\\screens\\trail_details_mapa_screen.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\screens\\trail_details_mapa_screen.dart"
+        }
+    ]
+}

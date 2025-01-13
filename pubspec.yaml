@@ -1,0 +1,52 @@
+name: katowice
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  google_maps_flutter: ^2.10.0
+  provider: ^6.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/planetarium.jpg
+    - assets/gala.jpg
+    - assets/muzeum.jpg
+    - assets/muzeum_historiczne.jpg
+    - assets/guido.jpg
+    - assets/rudy.jpg
+    - assets/ignacy.jpg
+    - assets/sztolnia_luiza.jpg
+    - assets/muzeum_slaskie.jpg
+    - assets/szlak_architektury_drewnianej.jpg
+    - assets/szlak_orlich_gniazd.jpg
+    - assets/szlak_zabytkow_techniki.jpg
+    - assets/image1.jpg
+    - assets/image2.jpg
+    - assets/muzeum_hutnictwa.jpg
+    - assets/stara_fabryka.jpg
+    - assets/szyb_prezydent.jpg
+    - assets/koleje_waskotorowe.jpg
+    - assets/browar_zamkowy.jpg
+    - assets/muzeum_drukarstwa.jpg
+
+
