@@ -47,8 +47,6 @@ To start exploring the codebase:
   flutter pub get
 
 
-
-
 3. **Run the app**
 
 ```bash
