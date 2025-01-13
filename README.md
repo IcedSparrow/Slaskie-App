@@ -13,6 +13,11 @@ Welcome to the Śląskie App, a Flutter-based application designed to explore an
   - [Favorite Trails Screen](#favorite-trails-screen)
   - [Plan Trip Screen](#plan-trip-screen)
   - [Trails Screen](#trails-screen)
+  - [Map Screen](#map-screen)
+  - [Routes Screen](#routes-screen)
+  - [Trail Details Mapa Screen](#trail-details-mapa-screen)
+  - [Trail Details Screen](#trail-details-screen)
+  - [Trail Info Screen](#trail-info-screen)
 - [Contributing](#contributing)
 - [License](#license)
 
