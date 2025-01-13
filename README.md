@@ -43,7 +43,7 @@ To start exploring the codebase:
    
 2.**Fetch Dependencies**
 
- ```bash
+ ``bash
   flutter pub get
 
 3. **Run the app**
