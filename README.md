@@ -40,10 +40,13 @@ To start exploring the codebase:
    ```bash
    git clone https://github.com/IcedSparrow/slaskie-app.git
    cd slaskie-app
-2.Fetch Dependencies
+   
+2.**Fetch Dependencies**
+
  ```bash
   flutter pub get
 
-3.Run the App
+3. **Run the app**
+
 ```bash
   flutter run
